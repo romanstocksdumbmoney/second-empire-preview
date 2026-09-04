@@ -29,3 +29,10 @@ Shown only as on live site: DiRoNa twice; AAA Four Diamond 3 times; Wine Spectat
 ## Not emailed
 
 No messages sent to specialevents@ or any other address in this wave.
+
+## Automated check (2026-09-04)
+
+- Heartland gifts, menus/main, menus/dessert, events PDF: HTTP 200
+- OpenTable: timeout from this environment (bot/network); URL matches live widget rid=36919
+- Tripadvisor / FOX: HTTP 403 to automated clients; URLs taken from live Second Empire news post
+- Preview Pages: https://romanstocksdumbmoney.github.io/second-empire-preview/ → 200
